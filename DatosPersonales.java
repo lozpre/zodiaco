@@ -183,9 +183,10 @@ public class DatosPersonales {
 }
 
 	public static void main(String[] args) {
-			
+				
+		DatosPersonales d = new DatosPersonales();
+		d.datos();
 		
-
 	}
 
 }
