@@ -25,11 +25,11 @@ public class DatosPersonales {
 			//enero
 			if (dia >=20) {
 				
-				System.out.println("acuario");
+				System.out.println("ACUARIO");
 				
 			}else{
 				
-				System.out.println("capricornio");
+				System.out.println("CAPRICORNIO");
 		
 			}
 			break;
@@ -38,11 +38,11 @@ public class DatosPersonales {
 			//febrero
 			if (dia >=19) {
 				
-				System.out.println("piscis");
+				System.out.println("PICIS");
 				
 			}else{
 				
-				System.out.println("acuario");
+				System.out.println("ACUARIO");
 				
 			}
 			break;
@@ -51,11 +51,11 @@ public class DatosPersonales {
 			//marzo
 			if (dia >=21) {
 				
-				System.out.println("aries");
+				System.out.println("ARIES");
 				
 			}else{
 				
-				System.out.println("piscis");
+				System.out.println("PICIS");
 				
 			}
 			break;
@@ -64,11 +64,11 @@ public class DatosPersonales {
 			//abril
 			if (dia >=21) {
 				
-				System.out.println("tauro");
+				System.out.println("TAURO");
 				
 			}else{
 				
-				System.out.println("aries");
+				System.out.println("ARIES");
 				
 			}
 			break;
@@ -77,11 +77,11 @@ public class DatosPersonales {
 			//mayo
 			if (dia >=21) {
 				
-				System.out.println("geminis");
+				System.out.println("GEMINIS");
 				
 			}else{
 				
-				System.out.println("tauro");
+				System.out.println("TAURO");
 				
 			}
 			break;
@@ -90,11 +90,11 @@ public class DatosPersonales {
 			//junio
 			if (dia >=21) {
 				
-				System.out.println("cancer");
+				System.out.println("CANCER");
 				
 			}else{
 				
-				System.out.println("geminis");
+				System.out.println("GEMINIS");
 				
 			}
 			break;
@@ -103,11 +103,11 @@ public class DatosPersonales {
 			//julio
 			if (dia >=21) {
 				
-				System.out.println("leo");
+				System.out.println("LEO");
 				
 			}else{
 				
-				System.out.println("cancer");
+				System.out.println("CANCER");
 				
 			}
 			break;
@@ -116,11 +116,11 @@ public class DatosPersonales {
 			//agosto
 			if (dia >=22) {
 				
-				System.out.println("virgo");
+				System.out.println("VIRGO");
 				
 			}else{
 				
-				System.out.println("leo");
+				System.out.println("LEO");
 				
 			}
 			break;
@@ -129,11 +129,11 @@ public class DatosPersonales {
 			//septiembre
 			if (dia >=23) {
 				
-				System.out.println("libra");
+				System.out.println("LIBRA");
 				
 			}else{
 				
-				System.out.println("virgo");
+				System.out.println("VIRGO");
 				
 			}
 			break;
@@ -142,11 +142,11 @@ public class DatosPersonales {
 			//octubre
 			if (dia >=23) {
 				
-				System.out.println("escorpion");
+				System.out.println("ESCORPION");
 				
 			}else{
 				
-				System.out.println("libra");
+				System.out.println("LIBRA");
 				
 			}
 			break;
@@ -155,11 +155,11 @@ public class DatosPersonales {
 			//noviembre
 			if (dia >=23) {
 				
-				System.out.println("sagitario");
+				System.out.println("SAGITARIO");
 				
 			}else{
 				
-				System.out.println("escorpion");
+				System.out.println("ESCORPION");
 				
 			}
 			break;
@@ -168,11 +168,11 @@ public class DatosPersonales {
 			//diciembre
 			if (dia >=21) {
 				
-				System.out.println("capricornio");
+				System.out.println("CAPRICORNIO");
 				
 			}else{
 				
-				System.out.println("sagitario");
+				System.out.println("SAGITARIO");
 				
 			}
 			break;
